@@ -21,7 +21,7 @@ public class MainActivity extends Activity
     // Replace APP_KEY from your APP_KEY
     final static private String APP_KEY = "vpr4x1jalwtxqw5";
     // Relace APP_SECRET from your APP_SECRET
-    final static private String APP_SECRET = "si02h9b0wo96ka8";
+    final static private String APP_SECRET = "si************a8";
 
     //
     private DropboxAPI<AndroidAuthSession> mDBApi;
